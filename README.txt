@@ -2,7 +2,7 @@ HWBot
 by Ulrich Barnstedt
 
 Open source discord bot for the mangement of homework, displyed in a predefined format.
-This bor runs over discord.
+This bot runs over discord.
 
 -----------------------------------------------------
 
@@ -23,7 +23,7 @@ Relevant files in the repository are:
   This file contains all of the code for the project.
   
 - config.json
-  This file contains the configuration of the bot, with "id" being the message at which the bot posts the data, "channelID" being the       dicsord channel in which this message is located, and "token" being the token for tehe bot. These need to be changed to fit your         data if you want to use the bot.
+  This file contains the configuration of the bot, with "id" being the message at which the bot posts the data, "channelID" being the     dicsord channel in which this message is located, and "token" being the token for tehe bot. These need to be changed to fit your         data if you want to use the bot.
   
 - hw.json
   This file contains all the current homework that has been entered into the bot.
@@ -67,5 +67,3 @@ This input has 4 options:
   
 - l
   This will list the contents of all the items in the database.
-  
-  
