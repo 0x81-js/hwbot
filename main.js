@@ -3,7 +3,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 var msg;
-const channelX = require("./test.json");
+const channelX = require("./config.json");
 var hwjs;
 var parsedHW = [];
 const fs = require("fs");
