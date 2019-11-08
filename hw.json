@@ -1,16 +1,1 @@
-[
-    {
-        "subject": "E1 (GRUPPE A)",
-        "date": "7 Nov.",
-        "description": "Buch fertig lesen, notizen machen",
-        "actualdate": "2019-11-07",
-        "string": "FACH: E1 (GRUPPE A)\nDATUM: 7 Nov.\nBESCHREIBUNG: Buch fertig lesen, notizen machen\n---------------------------\n"
-    },
-    {
-        "subject": "BWM (BO)",
-        "date": "Mo. 4 Nov.",
-        "description": "S42 Ü3.11 fertigmachen",
-        "actualdate": "2019-11-04",
-        "string": "FACH: BWM (BO)\nDATUM: Mo. 4 Nov.\nBESCHREIBUNG: S42 Ü3.11 fertigmachen\n---------------------------\n"
-    }
-]
+[]
